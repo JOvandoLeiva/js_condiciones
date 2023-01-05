@@ -1,0 +1,22 @@
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.texto{
+    text-align: center;
+}
+
+input{
+    width: 30px;
+    height: 30px;
+}
+
+.container{
+    text-align: center;
+}
